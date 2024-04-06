@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+body{
+    background-color: #010204 !important;
+}
+.bg-dark{
+    background-color: none !important;
+}
+.para{
+    color: #FFD177 !important;
+}
